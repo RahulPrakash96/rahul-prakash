@@ -6,13 +6,15 @@
 }
 
 :root {
-    --primary-color: #149ddd;
+    --primary-color: #0e76a8;
+    --primary-hover: #0a5a7d;
     --text-dark: #172b4d;
     --text-light: #45505b;
     --bg-light: #f5f8fd;
     --white: #ffffff;
     --border-color: #dee2e6;
     --shadow: 0 0 24px rgba(0, 0, 0, 0.12);
+    --sidebar-bg: #1a1d29;
 }
 
 body {
@@ -33,9 +35,10 @@ html {
     left: 0;
     bottom: 0;
     width: 300px;
-    background: var(--text-dark);
+    background: var(--sidebar-bg);
     overflow-y: auto;
     z-index: 1000;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .sidebar-content {
@@ -140,6 +143,8 @@ html {
     border-radius: 10px;
     object-fit: cover;
     flex-shrink: 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    border: 3px solid var(--primary-color);
 }
 
 .profile-info h2 {
@@ -186,9 +191,9 @@ html {
 }
 
 .btn-download:hover {
-    background: #0d8bc9;
+    background: var(--primary-hover);
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(20, 157, 221, 0.4);
+    box-shadow: 0 4px 15px rgba(14, 118, 168, 0.4);
 }
 
 /* Experience Section */
@@ -227,6 +232,12 @@ html {
     box-shadow: var(--shadow);
     margin-bottom: 25px;
     border-left: 4px solid var(--primary-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
 }
 
 .timeline-header {
