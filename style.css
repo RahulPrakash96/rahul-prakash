@@ -267,6 +267,15 @@ html {
     margin-left: 20px;
 }
 
+.project-subhead {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    font-style: italic;
+}
+
 /* Projects Section */
 .projects-section {
     padding: 60px 0;
