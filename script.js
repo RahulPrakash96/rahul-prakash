@@ -49,10 +49,9 @@ const observer = new IntersectionObserver((entries) => {
     });
 }, observerOptions);
 
-document.querySelectorAll('.timeline-item, .project-card, .cert-card').forEach(el => {
+document.querySelectorAll('.timeline-item, .project-card, .cert-card, .skill-category, .contact-item-card, .opensource-card').forEach(el => {
     el.style.opacity = '0';
     el.style.transform = 'translateY(20px)';
     el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
     observer.observe(el);
 });
-
