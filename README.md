@@ -14,7 +14,8 @@ Welcome to my professional portfolio! 👋
 ## 📄 Quick Links
 
 - **[View Portfolio](https://rahulprakash96.github.io/rahul-prakash/)** - Explore my work experience and background
-- **[Download Resume](https://rahulprakash96.github.io/rahul-prakash/assets/resume.pdf)** - Get my latest resume in PDF format
+- **[View Resume Online](https://rahulprakash96.github.io/rahul-prakash/assets/Rahul_Prakash_Resume.html)** - Browse my resume with clickable links
+- **[Download Resume PDF](https://rahulprakash96.github.io/rahul-prakash/assets/resume.pdf)** - Get my latest resume in PDF format
 
 ---
 
