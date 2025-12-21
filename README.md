@@ -27,9 +27,9 @@ Building Data Lakes @ Fivetran with 7+ years of experience in Backend Developmen
 
 ---
 
-## � Get In Touch
+## 📞 Get In Touch
 
-- **LinkedIn:** [linkedin.com/in/rahulprakash](https://www.linkedin.com/in/rahulprakash)
+- **LinkedIn:** [linkedin.com/in/rahulprakashm](https://www.linkedin.com/in/rahulprakashm/)
 - **GitHub:** [github.com/RahulPrakash96](https://github.com/RahulPrakash96)
 - **Email:** rahulmurugan96@gmail.com
 - **Location:** Bangalore, India
