@@ -1,6 +1,6 @@
 # Rahul Prakash
 
-**Staff Software Engineer @ Fivetran** | Backend Development | Distributed Systems | 7+ Years Experience
+**Staff Software Engineer @ Fivetran** | Backend Development | Distributed Systems | 8 Years Experience
 
 Welcome to my professional portfolio! 👋
 
@@ -21,7 +21,7 @@ Welcome to my professional portfolio! 👋
 
 ## 💼 About Me
 
-Building Data Lakes @ Fivetran with 7+ years of experience in Backend Development, Distributed Systems, and Microservices. Previously at Oracle Cloud Infrastructure and Zoho Corporation.
+Building Data Lakes @ Fivetran with 8 years of experience in Backend Development, Distributed Systems, and Microservices. Previously at Oracle Cloud Infrastructure and Zoho Corporation.
 
 **Expertise:** Java, Cloud Platforms (AWS, GCP, Azure), Distributed Systems, Data Lakes, Microservices
 
